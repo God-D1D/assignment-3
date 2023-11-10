@@ -1,0 +1,28 @@
+.James{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+    color:crimson;
+}
+.center-table{
+    text-align: center;
+    
+}
+    
+a:link{
+    color: black;
+    
+}
+a:visited{
+    color: cadetblue;
+}
+a:hover{
+    color: rgb(117, 198, 201);
+}
+
+.picture-align{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman';
+}
